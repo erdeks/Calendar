@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <link rel="stylesheet" type="text/css" href="css/tablas.css" />
-  <title>Calendario</title>
+  <title>Aitor Poncelas</title>
   <?php
     $filas = 6;
     $columnas = 7;
